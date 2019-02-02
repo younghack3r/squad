@@ -1,0 +1,2 @@
+# squad
+admin panel finder
